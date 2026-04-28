@@ -1,4 +1,4 @@
-# Upwork Job Filtering Checklist
+# Upwork automation and job filtering
 
 A simple checklist for freelancers, solo consultants, and small agencies who want to evaluate Upwork jobs before spending time on proposals.
 
@@ -61,7 +61,7 @@ For freelancers who want to automate parts of this workflow, [GigUp](https://gig
 
 You can view the published checklist here:
 
-https://fnwnwide123-boop.github.io/upwork-job-filtering-checklist/
+https://fnwnwide123-boop.github.io/upwork-automation/
 
 ## Final rule
 
