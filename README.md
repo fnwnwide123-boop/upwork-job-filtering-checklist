@@ -61,7 +61,7 @@ For freelancers who want to automate parts of this workflow, [GigUp](https://gig
 
 You can view the published checklist here:
 
-https://oliver-bennett124.github.io/upwork-job-filtering-checklist/
+https://fnwnwide123-boop.github.io/upwork-job-filtering-checklist/
 
 ## Final rule
 
